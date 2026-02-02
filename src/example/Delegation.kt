@@ -1,3 +1,5 @@
+package example
+Import java.io.IO.println
 import kotlin.properties.Delegates
 
 interface Base {
